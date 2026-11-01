@@ -25,7 +25,7 @@ Exploração e interpretação de dados.
 Análise e apresentação de resultados.
 
 Projetos
-1. Projeto SQL
+. Projeto SQL
    
 2. Projeto prático de criação e estruturação de tabelas, utilização de comandos SQL e elaboração de diagramas de bases de dados.
 
