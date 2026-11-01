@@ -27,9 +27,9 @@ Análise e apresentação de resultados.
 Projetos
 . Projeto SQL
    
-2. Projeto prático de criação e estruturação de tabelas, utilização de comandos SQL e elaboração de diagramas de bases de dados.
+1. Projeto prático de criação e estruturação de tabelas, utilização de comandos SQL e elaboração de diagramas de bases de dados.
 
-3. Projeto Power BI – Dashboard 1
+2. Projeto Power BI – Dashboard 1
 
 Projeto de análise e visualização de dados, incluindo transformação de dados, modelação, medidas DAX e desenvolvimento de dashboards.
 
